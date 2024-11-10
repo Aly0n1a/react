@@ -1,0 +1,20 @@
+.hero__wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    
+    button{
+        background-color: rgb(227, 151, 10);
+        width: 80px;
+        height: 30px;
+        border: 10px;
+        border-radius: 10px;
+    }
+}
+
+
+.hero__img{
+    border: 20px;
+    width: 100%;
+}
